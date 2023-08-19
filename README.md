@@ -5,21 +5,37 @@ This repository contains a text-based implementation of the classic Hangman game
 **Sample Game Play**
 
 Hint:Name of a food item
+
 -----
+
 guess a character
+
 a
+
 -a---
+
 guess a character
+
 n
+
 you have 5 more chances
+
 -a---
+
 guess a character
+
 s
+
 -as--
+
 guess a character
+
 P
+
 Pas--
+
 guess a character
+
 a
 Pas-a
 guess a character
