@@ -37,9 +37,15 @@ Pas--
 guess a character
 
 a
+
 Pas-a
+
 guess a character
+
 t
+
 Pasta
+
 YOU WON THE GAME
+
 Do you want to play again(y/n):n
